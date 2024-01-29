@@ -31,11 +31,11 @@ tokio.workspace = true
 members = ["state", "xtask"]
 
 [workspace.dependencies]
-gstd = "1.1.0"
-gmeta = "1.1.0"
-gear-wasm-builder = "1.1.0"
-gtest = "1.1.0"
-gclient = "1.1.0"
+gstd = "1.1.1-rc.0"
+gmeta = "1.1.1-rc.0"
+gear-wasm-builder = "1.1.1-rc.0"
+gtest = "1.1.1-rc.0"
+gclient = "1.1.1-rc.0"
 template-io.path = "io"
 tokio = "1"
 xshell = "0.2"
