@@ -24,3 +24,4 @@ jobs:
         uses: dsherret/rust-toolchain-file@v1
 
       - run: cargo b
+      - run: cargo t
